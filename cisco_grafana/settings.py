@@ -37,7 +37,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'meraki', ## Add this
+    'meraki', # Added in previous post
+    'dcnm', # Added in previous post
+    'sdwan', # Added in previous post
+    'openvuln', # <- Add this
 ]
 
 MIDDLEWARE = [
