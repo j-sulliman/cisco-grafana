@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'meraki', # Added in previous post
     'dcnm', # Added in previous post
     'sdwan', # Added in previous post
-    'openvuln', # <- Add this
+    'openvuln', # Added in previous post
+    'dnac', # < - Add this
 ]
 
 MIDDLEWARE = [
